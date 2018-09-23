@@ -1,0 +1,55 @@
+<resources>
+    <string name="quiz_app">Quiz App</string>
+    <!--Q1-->
+    <string name="general_knowledge">General Knowledge</string>
+    <string name="question1">The fastest growing nail is on the ____finger?</string>
+    <string name="answer1a">A)	Thump Finger </string>
+    <string name="answer1b">B)	Index Finger</string>
+    <string name="answer1c">C) Middle Finger</string>
+    <!--Q2-->
+    <string name="question2">Your brain stopped growing at age ____?</string>
+    <string name="answer2a">A)	Age 23 </string>
+    <string name="answer2b">B) Age 18 </string>
+    <string name="answer2c">C) Age 41</string>
+    <!--Q3-->
+    <string name="question3">The strongest muscle in the body is the______?</string>
+    <string name="answer3a">A)	Tongue Muscle</string>
+    <string name="answer3b">B)	Abs Muscle</string>
+    <string name="answer3c">C)	Chest Muscle</string>
+    <!--Q4-->
+    <string name="question4">Which animal cannot walk backwards?</string>
+    <string name="answer4a">A)	Elephant</string>
+    <string name="answer4b">B) Lion</string>
+    <string name="answer4c">C) Kangaroos</string>
+    <!--Q5-->
+    <string name="question5">Which one of the following is the softest?</string>
+    <string name="answer5a">A) Iron  </string>
+    <string name="answer5b">B)  Aluminium</string>
+    <string name="answer5c">C) Lithium</string>
+    <!--Q6-->
+    <string name="question6">No piece of paper can be folded in half more than____ times?</string>
+    <string name="answer6a">A) 5 times</string>
+    <string name="answer6b">B) 10 time</string>
+    <string name="answer6c">D)  7 times</string>
+    <!--Q7-->
+    <string name="question7">The first domain name ever registered was_____?</string>
+    <string name="answer7a">A)	www.google.com</string>
+    <string name="answer7b">b)  www.testdomain.com</string>
+    <string name="answer7c">C)	www.symbolics.com</string>
+    <!--Q8-->
+    <string name="question8">The most recycled product in the world is the_________?</string>
+    <string name="answer8a">A) automobile</string>
+    <string name="answer8b">B)  Mobile</string>
+    <string name="answer8c">C) Machine</string>
+    <string name="answer8d"> D)  Road</string>
+    <!--Q9-->
+    <string name="question9">_______sleep with one eye open?</string>
+    <string name="answer9a">A) Goats</string>
+    <string name="answer9b">B)  Dolphins</string>
+    <string name="answer9c">C) Eagles</string>
+    <string name="answer9d">D)  Fishes</string>
+    <!--Q10-->
+    <string name="question10">Name this famous scientist</string>
+    <string name="submit">submit</string>
+    <string name="answer">C.V.Vishveshwra</string>
+</resources>
